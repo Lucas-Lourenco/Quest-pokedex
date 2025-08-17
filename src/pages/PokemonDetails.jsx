@@ -201,7 +201,7 @@ const Botao = styled.button`
   color: white;
   border: none;
   border-radius: 12px;
-  font-size: 1em;
+  font-size: 1.4em;
   cursor: pointer;
   transition: all 0.3s ease;
 
