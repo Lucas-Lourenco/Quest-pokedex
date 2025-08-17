@@ -6,6 +6,7 @@ import PokemonDetails from "../pages/PokemonDetails";
 import { MemoryRouter } from "react-router-dom";
 
 
+
 jest.mock("react-router-dom", () => ({
   ...jest.requireActual("react-router-dom"),
   useParams: () => ({ name: "pikachu" }),

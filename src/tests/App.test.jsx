@@ -5,6 +5,7 @@ import '@testing-library/jest-dom';
 import App from "../App";
 
 
+
 jest.mock("../routes/AppRoutes", () => ({
   AppRoutes: () => <div>AppRoutes Mock</div>,
 }));

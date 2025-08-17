@@ -33,6 +33,7 @@ export function HomeProvider({ children }) {
   );
 }
 
+
 export function useHome() {
   return useContext(HomeContext);
 }

@@ -34,7 +34,9 @@ describe("Layout component", () => {
 
     const layoutDiv = container.firstChild;
 
+    
    
+
     expect(layoutDiv.style.background).toBeTruthy();
     expect(layoutDiv.style.color).toBeTruthy();
   });

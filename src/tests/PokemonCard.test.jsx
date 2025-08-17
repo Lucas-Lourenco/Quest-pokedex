@@ -30,4 +30,5 @@ describe("PokemonCard component", () => {
     
     expect(cardDiv).toHaveAttribute("type", mockPokemon.types[0].type.name);
   });
+  
 });

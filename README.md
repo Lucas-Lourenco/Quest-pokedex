@@ -81,6 +81,7 @@ src/
 
 ---
 
+
 ## 🖥️ Componentes Principais
 
 | Componente       | Função                                                                 |

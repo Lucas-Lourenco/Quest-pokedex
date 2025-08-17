@@ -3,6 +3,7 @@ import { render, screen } from "@testing-library/react";
 import '@testing-library/jest-dom';
 
 
+
 jest.mock("../components/SelectByType", () => () => <div>SelectByType Mock</div>);
 jest.mock("../pages/Home", () => () => <div>Home Component</div>);
 jest.mock("../pages/PokemonDetails", () => () => <div>PokemonDetails Component</div>);

@@ -8,6 +8,7 @@ export default function Layout({ children }) {
     return (
         <div style={{ background: theme.background, color: theme.color,
         
+            
         }}>
             <Header />
             {children}

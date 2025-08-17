@@ -7,6 +7,7 @@ import { ThemeProvider, ThemeContext, themas } from "../contextApi/ThemeContext"
 // Componente auxiliar para consumir o contexto
 const TestComponent = () => {
   const { theme, toggleTheme } = useContext(ThemeContext);
+  
 
   return (
     <div>

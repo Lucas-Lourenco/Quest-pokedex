@@ -17,5 +17,6 @@ PokemonApi(offset=0){
     }
 catch(error){
     console.error(`erro: ${error.message}`);}
+    
 }
     

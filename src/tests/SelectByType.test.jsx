@@ -38,4 +38,5 @@ describe("SelectByType component", () => {
       expect(axios.get).toHaveBeenCalledWith("https://pokeapi.co/api/v2/type");
     });
   });
+  
 });
