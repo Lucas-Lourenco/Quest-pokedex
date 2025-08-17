@@ -38,7 +38,6 @@ const Button = styled.button`
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
   }
     
-
     &:focus {
     outline: none;
     border-color: #ccccccff; 

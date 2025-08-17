@@ -6,7 +6,6 @@ import { HomeProvider } from "../contextApi/HomeContext";
 import { BrowserRouter } from "react-router-dom";
 import axios from "axios";
 
-
 jest.mock("axios");
 
 

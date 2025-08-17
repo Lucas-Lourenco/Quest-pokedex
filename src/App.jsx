@@ -1,5 +1,4 @@
 import { ThemeProvider } from './contextApi/ThemeContext'
-
 import { GlobalStyle } from './styles/GlobalStyle'
 import Layout from './components/Layout'
 import { AppRoutes } from './routes/AppRoutes'

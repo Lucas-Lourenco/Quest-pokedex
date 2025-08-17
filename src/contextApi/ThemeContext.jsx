@@ -32,5 +32,4 @@ export const ThemeProvider = (props) => {
             </StyledThemeProvider>
         </ThemeContext.Provider>
     );
-    
 }

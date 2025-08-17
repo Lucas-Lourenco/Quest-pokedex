@@ -27,10 +27,7 @@ export const GlobalStyle = createGlobalStyle`
     
     border-radius: 5px;
   }
-
   a {
-  
-   
     text-decoration: none;
     color: inherit;
   }

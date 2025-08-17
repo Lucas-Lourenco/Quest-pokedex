@@ -81,7 +81,6 @@ const StyledPokemonCard = styled.div`
       font-size: 1rem;
     }
       
-
     img {
       width: 80px;
       height: 80px;

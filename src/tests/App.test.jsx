@@ -1,4 +1,3 @@
-
 import React from "react";
 import { render, screen } from "@testing-library/react";
 import '@testing-library/jest-dom';
@@ -11,7 +10,7 @@ jest.mock("../routes/AppRoutes", () => ({
 }));
 
 
-jest.mock("../components/layout", () => ({ children }) => <div>Layout Mock {children}</div>);
+jest.mock("../components/Layout", () => ({ children }) => <div>Layout Mock {children}</div>);
 
 describe("App component", () => {
   test("renders App without crashing", () => {

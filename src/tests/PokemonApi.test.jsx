@@ -48,5 +48,4 @@ describe("PokemonApi", () => {
 
     consoleSpy.mockRestore();
   });
-  
 });

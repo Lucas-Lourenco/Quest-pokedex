@@ -2,7 +2,6 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import  Home  from "../pages/Home";
 import PokemonDetails from "../pages/PokemonDetails";
 import React from "react";
-
 export function AppRoutes() {
   return (
     <BrowserRouter>

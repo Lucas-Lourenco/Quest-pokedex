@@ -31,5 +31,4 @@ describe("Header component", () => {
 
     expect(toggleThemeMock).toHaveBeenCalledTimes(1);
   });
-  
 });
