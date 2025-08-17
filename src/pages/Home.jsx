@@ -183,7 +183,7 @@ const LoadMoreButton = styled.button`
   margin-left: 10px;
   border: 1px solid #ccccccff;
   border-radius: 12px;
-  font-size: 1em;
+  font-size: 1.4em;
   cursor: pointer;
   transition: all 0.3s ease;
 

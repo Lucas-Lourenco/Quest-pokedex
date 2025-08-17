@@ -33,6 +33,7 @@ export const SelectByType = ({ onChange, value }) => {
       ...base,
       backgroundColor: "#ffffffca", 
       color: "black",
+      padding: "5px 10px",
     }),
     singleValue: (base) => ({
       ...base,

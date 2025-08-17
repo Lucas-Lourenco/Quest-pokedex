@@ -97,8 +97,8 @@ const Container = styled.div`
   display: flex;
   border-radius: 20px;
   justify-content: center;
-  align-items: center;
-  min-height: 100vh;
+  
+  
   background: #f3f3f35c;
   padding: 15px;
 `;
@@ -108,8 +108,8 @@ const Card = styled.div`
   padding: 30px;
   border-radius: 20px;
   box-shadow: 0 4px 15px rgba(0,0,0,0.15);
-  max-width: 600px;
-  width: 100%;
+  
+  
   text-align: center;
 `;
 
@@ -161,7 +161,7 @@ const Titulo = styled.h2`
 `;
 
 const Texto = styled.p`
-  font-size: 1.1em;
+  font-size: 1.6em;
   color: #0f0e0eff;
   transition: all 0.3s ease;
 
@@ -183,7 +183,7 @@ const ListItem = styled.li`
   margin: 5px 0;
   padding: 10px;
   border-radius: 10px;
-  font-size: 1em;
+  font-size: 1.6em;
   text-align: left;
   transition: all 0.3s ease;
 
