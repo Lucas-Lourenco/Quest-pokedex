@@ -1,7 +1,7 @@
 import { ThemeProvider } from './contextApi/ThemeContext'
 
 import { GlobalStyle } from './styles/GlobalStyle'
-import Layout from './components/layout'
+import Layout from './components/Layout'
 import { AppRoutes } from './routes/AppRoutes'
 import { HomeProvider } from './contextApi/HomeContext'
 import React from 'react'
