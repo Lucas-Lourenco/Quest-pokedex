@@ -34,6 +34,7 @@ export const SelectByType = ({ onChange, value }) => {
       backgroundColor: "#ffffffca", 
       color: "black",
       padding: "5px 10px",
+      fontSize: "1.4em",
     }),
     singleValue: (base) => ({
       ...base,
@@ -47,6 +48,8 @@ export const SelectByType = ({ onChange, value }) => {
       ...base,
       backgroundColor: state.isFocused ? "#bbbbbb" : "#cccccce0",
       color: "black",
+      fontSize: "1.4em",
+      
     }),
   }}
 />
